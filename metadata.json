@@ -1,0 +1,8 @@
+{
+  "name": "Complexe Touristique Abaynou",
+  "description": "An elegant, high-fidelity multilingual web presentation and booking management portal for Complexe Touristique Abaynou in Chichaoua, Morocco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
